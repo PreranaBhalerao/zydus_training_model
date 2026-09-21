@@ -1,0 +1,15 @@
+unsloth
+unsloth_zoo
+bitsandbytes
+accelerate
+peft
+trl==0.22.2
+triton
+transformers==4.56.2
+sentencepiece
+protobuf
+datasets==4.3.0
+huggingface_hub>=0.34.0
+hf_transfer
+torchao>=0.16.0
+safetensors
